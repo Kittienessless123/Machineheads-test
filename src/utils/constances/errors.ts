@@ -1,0 +1,8 @@
+export const ERROR_LOGIN='Ошибка входа'
+export const ERROR_PWD_RECOVER='Ошибка восстановления пароля'
+export const ERROR_TAG_ADDIND='Ошибка создания языка'
+export const ERROR_TAG_DELETE='Ошибка удаления языка'
+export const ERROR_TAG_EDIT ='Ошибка редактирования языка'
+export const ERROR_ARTICLE_EDIT ='Ошибка редактирования статьи'
+export const ERROR_ARTICLE_DELETE ='Ошибка удаления статьи'
+export const ERROR_ARTICLE_ADD ='Ошибка добавления статьи'
