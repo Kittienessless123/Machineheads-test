@@ -15,10 +15,6 @@ export const items: MenuItem[] = [
     key: 'author',
 /*     icon: <MailOutlined/>,
  */  },
-   {
-    label: 'Tags',
-    key: 'tags',
-/*     icon: <MailOutlined/>,
- */  },
+  
 ]
 

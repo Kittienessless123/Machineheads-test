@@ -17,10 +17,6 @@ export const AppRouter = () => {
      <Route index element={<LoginPage />} />
       <Route path="/Login" element={<LoginPage />} />
       <Route path="/Admin" element={<AdminPage />} />
-    {/* 
-      <Route path="*" element={<Fallback />} />
-            <Route path="*" element={<Fallback />} /> 
- */}
     </Route>
   );
 
